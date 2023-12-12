@@ -19,11 +19,11 @@ Your objective is to:
 1. **Clone this repository to your local machine:**
 
    ```bash
-   https://github.com/mshamrai-teaching/image-processing-stitching
+   https://github.com/mshamrai-teaching/image-processing-stitching-*your-name*
    ```
 2. **Navigate to the project directory:**
     ```bash
-     cd image-stitching
+     cd image-processing-stitching-*your-name*
     ```
 
 ### Submission
