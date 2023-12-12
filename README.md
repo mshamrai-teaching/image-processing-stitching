@@ -27,8 +27,10 @@ Your objective is to:
     ```
 
 ### Submission
+To submit your solution create pull request to the `main` branch.  
+
 Ensure your final submission includes:
-* Source code (image_stitching.py\.ipynb or similar).
+* Source code (image_stitching.py\\.ipynb or similar).
 * Input images, which you took.
 * Output image.
 * A brief report (report.md or similar) explaining your approach and any challenges faced.
